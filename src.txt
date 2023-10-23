@@ -1,0 +1,2 @@
+https://cloudshuttle.com.au/blog/2022-10/duckdb_dbt
+https://github.com/dbt-labs/jaffle_shop/blob/main/dbt_project.yml
